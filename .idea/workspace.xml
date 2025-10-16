@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b32c580-b297-4bfc-b022-90897b2060ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBCPO1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForwardDirOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertUsingPrepardDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBCDeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBCInsertDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBCUpdateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBCdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScrollInsensitive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScrollInsensitiveDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="32JWffsyasO8ZsqD966eUO0hjQM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.InsertUsingPrepardDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JDBCDeleteDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JDBCInsertDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JDBCUpdateDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JDBCdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScrollInsensitive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScrollInsensitiveDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/salma/Downloads/mysql-connector-java-8.0.30.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Spark 4.0/JDBCPO1/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InsertUsingPrepardDemo">
+    <configuration name="InsertUsingPrepardDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertUsingPrepardDemo" />
+      <module name="JDBCPO1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCDeleteDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBCDeleteDemo" />
+      <module name="JDBCPO1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBCdemo" />
+      <module name="JDBCPO1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScrollInsensitive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScrollInsensitive" />
+      <module name="JDBCPO1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScrollInsensitiveDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScrollInsensitiveDemo" />
+      <module name="JDBCPO1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InsertUsingPrepardDemo" />
+        <item itemvalue="Application.ScrollInsensitiveDemo" />
+        <item itemvalue="Application.ScrollInsensitive" />
+        <item itemvalue="Application.JDBCdemo" />
+        <item itemvalue="Application.JDBCDeleteDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b32c580-b297-4bfc-b022-90897b2060ac" name="Changes" comment="" />
+      <created>1757139262513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757139262513</updated>
+    </task>
+    <servers />
+  </component>
+</project>
